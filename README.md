@@ -1,7 +1,7 @@
 # bdgbao.github.io
 👋 Hi, I’m Bui Dien Gia Bao a.k.a @bdgbao.
 
-👀 I’m interested in Computer Science, specifically Artificial Intelligence.
+👀 I’m interested in Mathematics and Computer Science, specifically Artificial Intelligence.
 
 🌱 I’m a CS student at the University of Information Technology - Vietnam National University, Ho Chi Minh City.
 
